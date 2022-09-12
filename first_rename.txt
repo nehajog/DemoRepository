@@ -6,3 +6,4 @@ I want to change file.
 
 
 This file is in master
+This is addes in new branch bugfix.
