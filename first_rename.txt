@@ -1,0 +1,8 @@
+This is my first project.
+I want to go into 2 commit stage.
+
+I made changes in first.txt
+I want to change file.
+
+
+This file is in master
